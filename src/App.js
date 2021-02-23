@@ -1,11 +1,24 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-function App() {
-  return (
-    <main className='App'>
-      <h1>Work the Market board</h1>
-    </main>
-  );
+import Navbar from './Navbar/Navbar';
+import MainApp from './MainApp/MainApp';
+
+class App extends Component {
+
+  render() {
+
+    return (
+
+      <div className='application'>
+
+        <Navbar />
+
+        <MainApp />
+      </div>
+
+    )
+
+  }
 }
 
 export default App;

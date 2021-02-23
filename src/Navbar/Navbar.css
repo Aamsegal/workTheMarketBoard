@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(192, 192, 192);
+    height: 80px;
+    border-bottom: 2px solid black;
+}
+
+.navbarLeft, .navbarRight{
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    vertical-align: top;
+}
+
+.navBarTitle{
+    top: 25%;
+    position: relative;
+    padding-left: 50px;
+    margin: 0;
+}
+
+.navbarRight{
+    text-align: right;
+}
+
+.update{
+    margin: 20px;
+}

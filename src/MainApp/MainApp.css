@@ -1,0 +1,21 @@
+.MainAppContainer{
+    width: 90%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.RecipeListContainerLeft, .MarketBoardInfoContainerRight {
+    display: inline-block;
+}
+
+.RecipeListContainerLeft{
+    width: 35%;
+    text-align: left;
+}
+
+.MarketBoardInfoContainerRight {
+    width: 65%;
+    text-align: right;
+}
