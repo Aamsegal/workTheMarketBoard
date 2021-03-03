@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './MainApp.css'
 
-import RecipeList from '../RecipeList/RecipeList';
+import RecipeList from '../WTMB-RecipeList/WTMB-RecipeList';
 import MarketBoardInfo from '../MarketBoardInfo/MarketBoardInfo'
 
 class MainApp extends Component {

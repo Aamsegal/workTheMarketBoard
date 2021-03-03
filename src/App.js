@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-import Navbar from './Navbar/Navbar';
-import MainApp from './MainApp/MainApp';
+import Navbar from './WTMB-Navbar/WTMB-Navbar';
+import MainApp from './WTMB-MainApp/MainApp';
 
 class App extends Component {
 

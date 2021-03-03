@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Navbar.css'
+import './WTMB-Navbar.css'
 
 
 //material-ui component importation

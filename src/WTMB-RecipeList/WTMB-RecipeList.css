@@ -1,0 +1,39 @@
+.RecipeListContainer{
+    border: 1px solid black;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: top;
+    
+}
+
+.RecipeInputContainer{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+
+.craftingRecipe{
+    border: 1px solid black;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+.craftingRecipeName, .craftingRecipeDeleteButton{
+    display:inline-block;
+}
+
+.craftingRecipeName{
+    width: 75%;
+}
+
+.craftingRecipeDeleteButton{
+    text-align: right;
+    width: 25%
+}
+
+.craftingRecipeNameText{
+    margin:0;
+}
